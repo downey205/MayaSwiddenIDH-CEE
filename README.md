@@ -1,5 +1,5 @@
 # MayaSwiddenIDHCEE
-Repositor for code and data associated with 
+Repository for code and data associated with 
 
 Sean S. Downey*, Matt Walker, Jacob Moschler, Filiberto Penados, Rongjun Qin, William Peterman, Shane A. Scaggs, Suang Song. (Accepted, 2023). Intermediate swidden disturbance increases spectral diversity in Maya community forests. Communications Earth and Environment.
 
